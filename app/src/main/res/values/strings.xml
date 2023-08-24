@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="cButton">C</string>
+    <string name="_1Button">1</string>
+    <string name="_4Button">4</string>
+    <string name="_7Button">7</string>
+    <string name="_8Button">8</string>
+    <string name="_00Button">00</string>
+    <string name="ButtonPercent">%</string>
+    <string name="_2Button" >2</string>
+    <string name="_5Button">5</string>
+    <string name="_0Button">0</string>
+    <string name="deleteButton">B</string>
+    <string name="_3Button">3</string>
+    <string name="_6Button">6</string>
+    <string name="_9Button">9</string>
+    <string name="Buttondot">.</string>
+    <string name="buttonDivision">÷</string>
+    <string name="ButtonMul">*</string>
+    <string name="ButtonSol">=</string>
+    <string name="buttonAdd">+</string>
+    <string name="buttonDiff">-</string>
+
+    <string name="app_id">ca-app-pub-1186461984348395~6196232244</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1186461984348395/5605468633</string>
+</resources>
